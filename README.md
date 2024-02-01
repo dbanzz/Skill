@@ -1,0 +1,1 @@
+This github repo was created earlier but we ended up using Gooogle Drive. Everyone has uploader their python notebooks to the main branch and the presentation is not in Google slides but in Microsoft powerpoint.
